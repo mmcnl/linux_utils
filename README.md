@@ -3,6 +3,16 @@
 Below are some relatively new utilties which I have found very helpful for
 exploring and troubleshooting Linux (or MacOS) systems.
 
+- [rg](#rg)
+- [fd](#fd)
+- [bat](#bat)
+- [gron](#gron)
+- [lnav](#lnav)
+- [ncdu](#ncdu)
+- [htop](#htop)
+- [goaccess](#goaccess)
+
+
 ## Installation
 
 - Linux 
