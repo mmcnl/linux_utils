@@ -40,7 +40,8 @@ exploring and troubleshooting Linux (or MacOS) systems.
 
 For recursively searching the filesystem for text within files,
 [rg](https://github.com/BurntSushi/ripgrep) is a powerful, user-friendly, and
-_much_ faster alternative to `grep`.
+_much_ faster alternative to `grep`. Since 2017 it has also powered search in
+VSCode.
 
 * Here's a [nice write
 up](https://blog.burntsushi.net/ripgrep/) about how `rg` compares to other search tools.
