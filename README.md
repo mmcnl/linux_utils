@@ -7,6 +7,7 @@ exploring and troubleshooting Linux (or MacOS) systems.
 - [fd](#fd)
 - [bat](#bat)
 - [gron](#gron)
+- [lf](#lf)
 - [lnav](#lnav)
 - [ncdu](#ncdu)
 - [htop](#htop)
